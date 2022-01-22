@@ -4,7 +4,7 @@ using System.Collections;
 public class BallLauncher : MonoBehaviour {
 
     public GameObject ballPrefab;
-    public float ballSpeed = 8.0f;
+    public float ballSpeed = 15.0f;
 
     // Use this for initialization
     void Start () {
